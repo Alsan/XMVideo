@@ -1,6 +1,5 @@
 #XM美剧
 ##介绍
-此项目是个人练手用，采用最新技术开发。
 >1,接口采用人人美剧API
 >
 >2,使用retrofit+rxjava+rxandroid+gson访问网络
