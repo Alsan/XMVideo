@@ -1,5 +1,4 @@
-#XM美剧
-##介绍
+#XMVideo
 >1,接口采用人人美剧API
 >
 >2,使用retrofit+rxjava+rxandroid+gson访问网络
