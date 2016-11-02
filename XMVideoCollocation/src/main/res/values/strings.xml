@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">影视大全</string>
+    <string name="tablist">专题</string>
+    <string name="tabhome">精选</string>
+    <string name="tablocal">本地</string>
+    <string name="tabsetting">更多</string>
+    <string name="buffering">加载中</string>
+    <string name="lastupdate">热门</string>
+    <string name="film">电影</string>
+    <string name="tvplay">电视剧</string>
+    <string name="cartoon">动漫</string>
+    <string name="variety">综艺</string>
+    <string name="textcontent">剧情简介</string>
+    <string name="textcontent2">资源列表</string>
+    <string name="textcontent3">展开全部</string>
+    <string name="textcontent4">收起简介</string>
+    <string name="textcontent5">点击下载 长按复制链接 迅雷可以边下载边播放哦~</string>
+    <string name="textfav1">点击收藏</string>
+    <string name="textfav2">已收藏</string>
+    <string name="textsearch"> 请输入影片名 电影类型 演员名 等</string>
+    <string name="textsearch1">   点我搜索 你懂的</string>
+</resources>
