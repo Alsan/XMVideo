@@ -1,15 +1,10 @@
 #XMVideo
->1,接口采用人人美剧API
 >
->2,使用retrofit+rxjava+rxandroid+gson访问网络
->
->3,采用5.0风格UI，
->
->4,采用realm作为数据库
->
->5,使用PLDroidPlayer开源播放器
->
->6,图片使用Glide框架
+>1,数据源来自jsoup爬虫
+>2,线程控制使用rxjava+rxandroid
+>3,使用md控件
+>4,数据库使用realm
+>5,图片使用Glide
 
 #程序截图
 ![Image of 首页](https://github.com/ximencx/xmvideo/blob/master/screenshot/home1.gif)
